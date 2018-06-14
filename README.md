@@ -9,6 +9,6 @@ Write it -> Run it -> Merge it -> Reset
 
 # Usage
 
-make / make run : run main.go
-make reset      : reset sandbox
+- make / make run : run main.go
+- make reset      : reset sandbox
 
